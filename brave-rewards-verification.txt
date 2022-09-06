@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: decordle.org
+Token: bd9c06ccfbe8db54ebd644fea9d77ad8041785d64edaa4ca25180d17bbabc332
