@@ -122,3 +122,7 @@ h2 {
     text-align: center;
     margin: auto;
 }
+
+ins.adsbygoogle[data-ad-status="unfilled"] {
+    display: none !important;
+}
